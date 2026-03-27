@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://primetraderszw.netlify.app/sitemap.xml
